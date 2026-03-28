@@ -1,0 +1,73 @@
+.market-container .page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.filter-group select {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.market-table {
+  width: 100%;
+  background: white;
+  border-collapse: collapse;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.market-table th, .market-table td {
+  padding: 15px 20px;
+  text-align: left;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.market-table th {
+  background-color: #f8f9fa;
+  color: #666;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.market-table tr:hover {
+  background-color: #fcfcfc;
+}
+
+.market-table .bold {
+  font-weight: bold;
+  color: #1a1a2e;
+}
+
+.positive {
+  color: #4ecca3;
+}
+
+.negative {
+  color: #e94560;
+}
+
+.trade-btn {
+  background-color: #1a1a2e;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: opacity 0.3s;
+}
+
+.trade-btn:hover {
+  opacity: 0.8;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
