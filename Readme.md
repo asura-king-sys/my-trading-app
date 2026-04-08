@@ -152,11 +152,7 @@ The frontend will start on **http://localhost:3000** and proxy API requests to t
 4. **Monitor your Portfolio** to see your holdings, average cost basis, current market value, and unrealized P&L.
 5. **Review History** for a complete audit trail of every transaction.
 
----
 
-## 📸 Screenshots
-
-> *(Add screenshots of your Dashboard, Market, Portfolio, and History pages here)*
 
 ---
 
