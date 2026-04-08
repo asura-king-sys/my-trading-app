@@ -154,21 +154,15 @@ The frontend will start on **http://localhost:3000** and proxy API requests to t
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of your Dashboard, Market, Portfolio, and History pages here)*
-
----
-
 ## 🔮 Future Improvements
 
-- Real stock market data integration (e.g., Alpha Vantage or Yahoo Finance API)
-- WebSocket support for true real-time price streaming
-- Stop-loss and limit order functionality
-- Persistent database (PostgreSQL / MySQL) for production use
-- User profile management and avatar support
-- Leaderboard to compare performance across users
-- Mobile-responsive redesign and PWA support
+- Real stock market data integration (e.g., Alpha Vantage or Yahoo Finance API).
+- WebSocket support for true real-time price streaming.
+- Stop-loss and limit order functionality.
+- Persistent database (PostgreSQL / MySQL) for production use.
+- User profile management and avatar support.
+- Leaderboard to compare performance across users.
+- Mobile-responsive redesign and PWA support.
 
 ---
 
